@@ -7,5 +7,5 @@
 
 
 <div class="nota">
-  <strong>Nota:</strong> Arquivo recebido com front end desenvolvido, apenas alterado algumas partes para estudo do projeto.
+  <strong>Nota:</strong> Projeto recebido com front end desenvolvido. Usado principalmente para aprender lógica de programação junto às linguagens JS, CSS e HTML. 
 </div>
